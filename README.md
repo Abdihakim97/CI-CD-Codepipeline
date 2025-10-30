@@ -1,2 +1,1 @@
-# CI-CD-Codepipeline
-CI/CD Codepipeline
+The goal of this project is to automate the deployment of a static website using AWS services. Traditionally, developers had to manually upload website files to an S3 bucket every time code was updated, which was time-consuming and error-prone. To streamline this process, we implemented a Continuous Integration and Continuous Deployment (CI/CD)pipeline using AWS CodePipeline and GitHub.
